@@ -4,7 +4,6 @@ collection: teaching
 type: ""
 permalink: /teaching/UcalgaryTA
 venue: "University of Calgary, Department of Philosophy"
-date: 2017
 location: "Calgary, Canada"
 ---
 
