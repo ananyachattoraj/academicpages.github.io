@@ -1,7 +1,6 @@
 ---
 title: "Teaching Assistant Experiences"
 collection: teaching
-type: ""
 permalink: /teaching/UcalgaryTA
 venue: "University of Calgary, Department of Philosophy"
 location: "Calgary, Canada"
