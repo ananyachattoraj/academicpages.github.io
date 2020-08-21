@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV] (../files/CV - Aug 2020 - Ananya Chattoraj.pdf)
+[CV] (https://ananyachattoraj.github.io/files/CV - Aug 2020 - Ananya Chattoraj.pdf)
