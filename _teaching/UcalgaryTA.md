@@ -3,7 +3,7 @@ title: "Teaching Assistant - University of Calgary"
 collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/UcalgaryTA
-venu: "University of Calgary"
+venue: "University of Calgary"
 date: 2017-08-01
 location: "Calgary, Canada"
 ---
