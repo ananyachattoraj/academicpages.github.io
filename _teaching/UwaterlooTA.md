@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant Experiences"
+title: "Teaching Assistant - University of Waterloo"
 collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/UwaterlooTA
