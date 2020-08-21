@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/UwaterlooTA
 venue: "University of Waterloo"
-date: 2014
+date: 2014-08-01
 location: "Waterloo, Canada"
 ---
 
