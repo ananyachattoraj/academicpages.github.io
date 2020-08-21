@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/UcalgaryTA
 venu: "University of Calgary"
-date: ""
+date: 2017
 location: "Calgary, Canada"
 ---
 
