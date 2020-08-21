@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant Experiences"
 collection: teaching
-type: "Undergraduate Courses"
+type: ""
 permalink: /teaching/UcalgaryTA
 venue: "University of Calgary, Department of Philosophy"
-date: "2017 - Present"
+date: 2017
 location: "Calgary, Canada"
 ---
 
