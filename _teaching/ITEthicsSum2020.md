@@ -2,7 +2,7 @@
 title: "Information Technology Ethics"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/ITEthicsSum2020
 venue: "University of Calgary, Department of Philosophy"
 date: 2020-07-01
 location: "Calgary, Canada"
