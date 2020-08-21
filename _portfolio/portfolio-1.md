@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tool Choice and Data Practices"
+excerpt: "Choices of data acquistion and data processing are often thought to solely depend on the aims of a research program. There are, however, many pragmatic choices affecting the types of data researchers collect. One such case is when data practices are affected by the types of tools chosen to perform data collection and processing. In this project, I am researching the affects that choosing particular technologies on pragmatic grounds has on the format and analysis of data in scientific practice."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Choices of data acquistion and data processing are often thought to solely depend on the aims of a research program. There are, however, many pragmatic choices affecting the types of data researchers collect. One such case is when data practices are affected by the types of tools chosen to perform data collection and processing. In this project, I am researching the affects that choosing particular technologies on pragmatic grounds has on the format and analysis of data in scientific practice.
+
+I will upload a paper draft here in the near future.
