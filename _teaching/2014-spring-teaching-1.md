@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant Experiences"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Calgary, Department of Philosophy"
+date: "2017 - Present"
+location: "Calgary, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+At the University of Calgary, I have been a Teaching Assistant for:
+- Mind Matter God
+- Logic 2
+- Information Technology Ethics (Online)
 
-Heading 1
+Mind Matter God
 ======
 
-Heading 2
+Logic 2
 ======
 
-Heading 3
+Information Technology Ethics
 ======
