@@ -2,7 +2,7 @@
 title: "Teaching Assistant Experiences"
 collection: teaching
 type: ""
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/UcalgaryTA
 venue: "University of Calgary, Department of Philosophy"
 date: "2017 - Present"
 location: "Calgary, Canada"
