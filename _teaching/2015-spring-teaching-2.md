@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Information Technology Ethics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Calgary, Department of Philosophy"
+date: 2020-07-01
+location: "Calgary, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A critical and analytical examination of ethical and legal problems arising in and about information technology. Includes topics like data and algorithmic bias, value neutrality in technology, intellectual property and the right to repair, artificial intelligence, ethics in game design, and the accessibility of technology.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Syllabus
