@@ -1,5 +1,5 @@
 ---
-title: "Information Technology Ethics"
+title: "Instructor - Information Technology Ethics"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/ITEthicsSum2020
